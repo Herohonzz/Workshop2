@@ -1,0 +1,34 @@
+h1 {
+    color: blue;
+    font-size: 30px;
+  }
+  
+  .circular {
+    border-radius: 100%;
+  }
+  
+  hr {
+    border-style: dotted;
+    border-color: grey;
+    width: 50%;
+  }
+  
+  table {
+    width: 600px;
+  }
+  
+  .custom-div1 {
+    background-color: #c1baa1;
+    border-style: solid;
+    border-color: #c1baa1;
+    width: 775px;
+    height: 160px;
+  }
+  .custom-div2 {
+    background-color: #d7d3bf;
+    border-style: none;
+    border-top-style: solid;
+    border-color: #d7d3bf;
+    width: 780px;
+    height: 220px;
+  }  
